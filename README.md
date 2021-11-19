@@ -20,3 +20,9 @@ and its deep integration with other Microsoft products makes it a very versatile
 **[Power BI Desktop]()**
 
 # Preview
+
+![Image1]()
+
+![Image2]()
+
+![Image3]()
